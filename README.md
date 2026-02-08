@@ -10,7 +10,7 @@ for autonomous AI agents.
 
 ## Live Demo
 
-- [Video Demo](https://youtu.be/0GR_xuhh7Gw)
+- [Video Demo](https://youtu.be/yK6lVILBvi0)
 - [Interactive Prototype (AI Studio)](https://demo-project-re-hardware-anchored-ai-governance-p-846675198094.us-west1.run.app)
 
 ## Quick Start (Local)
@@ -37,5 +37,5 @@ Core governance logic is patent-pending.
 
 ## Author
 
-Che — Solo developer, Taiwan
+Che — Solo developer from Taiwan. 
 Built in 30 days.
