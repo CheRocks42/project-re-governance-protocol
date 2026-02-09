@@ -1,7 +1,6 @@
 # Project RE: Hardware-Anchored AI Governance Protocol
+> ## Make Intelligence Accountable. Artificial or Otherwise.
 - [Devpost Project Page](https://bit.ly/4qpKYTs)
-
-> Make Intelligence Accountable. Artificial or Otherwise.
 
 ## What is this?
 
