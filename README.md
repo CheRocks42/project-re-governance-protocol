@@ -1,5 +1,10 @@
 # Project RE: Hardware-Anchored AI Governance Protocol
 > ## Make Intelligence Accountable. Artificial or Otherwise.
+
+Our AI forgot what it said 5 minutes ago. So we gave it an email account, 
+a hardware-anchored governance protocol for Gemini — 
+every action signed, auditable, revocable. It's Accountable Intelligence. 
+
 - [Devpost Project Page](https://bit.ly/4qpKYTs)
 
 ## What is this?
