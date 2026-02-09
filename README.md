@@ -1,4 +1,5 @@
 # Project RE: Hardware-Anchored AI Governance Protocol
+- [Devpost Project Page](https://bit.ly/4qpKYTs)
 
 > Make Intelligence Accountable. Artificial or Otherwise.
 
@@ -10,8 +11,8 @@ for autonomous AI agents.
 
 ## Live Demo
 
-- [Video Demo](https://youtu.be/yK6lVILBvi0)
-- [Interactive Prototype (AI Studio)](https://demo-project-re-hardware-anchored-ai-governance-p-846675198094.us-west1.run.app)
+- [Video Demo](https://bit.ly/reDemoPitchJG)
+- [Interactive Prototype (AI Studio)](https://bit.ly/reAIstudioTryJG)
 
 ## Quick Start (Local)
 ```bash
@@ -28,7 +29,7 @@ React, TypeScript, Tailwind CSS, Gemini API
 
 ## Architecture
 
-See [Judges Brief (Project_RE_Judges_Brief02.zip)](./docs/Project_RE_Judges_Brief02.zip) for full technical overview.
+See [Judges Brief (Project_RE_Judges_Brief02.zip)](https://bit.ly/45SRM4B) for full technical overview.
 
 ## Patent Notice
 
