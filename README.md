@@ -11,7 +11,7 @@ for autonomous AI agents.
 ## Live Demo
 
 - [Video Demo](https://bit.ly/reDemoPitchJG)
-- [Interactive Prototype (AI Studio)](https://bit.ly/reAIstudioTryJG)
+- [Interactive Prototype (AI Studio)](https://bit.ly/reAIstudioTryJG) (No API key needed)
 
 ## Quick Start (Local)
 ```bash
@@ -29,6 +29,7 @@ React, TypeScript, Tailwind CSS, Gemini API
 ## Architecture
 
 See [Judges Brief (Project_RE_Judges_Brief02.zip)](https://bit.ly/45SRM4B) for full technical overview.
+For full project narrative, see our [Devpost submission](https://bit.ly/4qpKYTs).
 
 ## Patent Notice
 
